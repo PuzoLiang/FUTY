@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.brown,
       ),
-      home: MyHomePage(title: '2019中国制造业经理人指数'),
+      home: MyHomePage(title: '201中国制造业经理人指数'),
     );
   }
 }
